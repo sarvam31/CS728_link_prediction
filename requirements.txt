@@ -1,0 +1,5 @@
+# requirements
+
+transformers==4.49.0
+networkx==3.3
+torch_geometric==2.6.1
